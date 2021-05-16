@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/LihatPembeli.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/LihatPersediaan.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/controller/PenjualanController.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/aplikasipenjualan/AplikasiPenjualan.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/model/Penjualan.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/model/Koneksi.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/controller/LoginController.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/model/Transaksi.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/FormPenjualan.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/reports/LaporanPenjualan.jrxml</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/controller/TransaksiController.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/model/Karyawan.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/FormPersediaan.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/reports/StrukTransaksi.jrxml</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/model/Pembeli.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/controller/KaryawanController.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/FormTransaksi.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/FormLogin.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/FormKaryawan.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/controller/KasirController.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/controller/PersedianController.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/FormLaporan.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/LihatKaryawan.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/PesanDialog.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/model/Kasir.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/model/Enkripsi.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/LihatPenjualan.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/model/Persedian.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/LihatKasir.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/koneksi.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/FormPembeli.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/FormKasir.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/controller/PembeliController.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/reports/LaporanPersediaan.jrxml</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/FormUtama.java</file>
+            <file>file:/D:/KULIAH/SEMESTER%206/KERJA%20PRAKTEK/AplikasiPenjualan/src/view/JDesktopPaneGambar.java</file>
+        </group>
+    </open-files>
+</project-private>
